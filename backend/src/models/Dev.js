@@ -4,8 +4,7 @@ const { Schema, model } = require('mongoose');
 // Schema para os dados do banco
 const DevSchema = new Schema({
     name: {
-        type: String,
-        required: true,
+        type: String
     },
     user: {
         type: String,
@@ -13,8 +12,7 @@ const DevSchema = new Schema({
     },
     bio: String,
     avatar: {
-        type: String,
-        required: true,
+        type: String
     },
     likes: [{
         // Referencia a tabela de Devs (ao todo)

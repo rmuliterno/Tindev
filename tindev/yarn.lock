@@ -5321,6 +5321,16 @@ react-devtools-core@^3.4.0:
     shell-quote "^1.6.1"
     ws "^3.3.1"
 
+react-dom@16.6.0-alpha.8af6728:
+  version "16.6.0-alpha.8af6728"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.6.0-alpha.8af6728.tgz#0bc2020dcf0a594fe06e41379a9346d1982f587b"
+  integrity sha512-/45amCtd+yJD2Ee8mC4Z6KrupY24XydGzmGpkYlG5gIy7oTf+8g6+X+0DigDtvt6e4FOd8EJajf9YX++CW5A+g==
+  dependencies:
+    loose-envify "^1.1.0"
+    object-assign "^4.1.1"
+    prop-types "^15.6.2"
+    scheduler "^0.10.0-alpha.8af6728"
+
 react-is@^16.6.0-alpha.8af6728, react-is@^16.7.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   version "16.9.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.9.0.tgz#21ca9561399aad0ff1a7701c01683e8ca981edcb"
